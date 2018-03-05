@@ -2,6 +2,9 @@ VR Developer Nanodegree program / MOBILE PERFORMANCE & 360 MEDIA SPECIALIZATION
 
 BORBALA MENYHART Capstone Project
 
+
+PRESENTATION VIDEO: https://youtu.be/gfW82rSp870
+
 Target platform: Daydream VR
 Daydream ready phone with Android SDK 7.0 and up.
 
